@@ -1,0 +1,9 @@
+.hilene{
+  border-radius: 7px;
+  width: 150px;
+  height: 150px;
+}
+.name , .add{
+  font-family: 'Courier New', Courier, monospace;
+  
+}
